@@ -1,0 +1,10 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from. 
+
+
+January 28, 2011 Pixel Theme Studio <http://www.pixelthemestudio.ca>
+     
+	- Back Button was showing up on static front pages (home page) so now if it's the front page, the back button won't show.
+	
+December 1, 2014 Pixel Theme Studio <http://www.pixelthemestudio.ca>
+     
+	- New Theme: Designed and developed theme

@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zen Theme\n"
+"POT-Creation-Date: 2014-12-14 19:06+0100\n"
+"PO-Revision-Date: 2014-12-14 19:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: En\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_n;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:37
+msgid "Your primary site menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Your footer menu"
+msgstr ""
+
+#: functions.php:71
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:153 loop.php:99 loop.php:103 loop.php:130 loop.php:136
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:188
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Date: </span> %2$s <span class=\"meta-sep\">&nbsp;"
+"Author: </span> %3$s"
+msgstr ""
+
+#: functions.php:226 includes/categoryinsetright.php:5
+#: includes/categoryleft.php:15 includes/categoryright.php:5
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:227
+msgid "Commented"
+msgstr ""
+
+#: functions.php:230
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:230 functions.php:258
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:238
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:258
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:291
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. <br />Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:293
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:295
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: functions.php:330
+msgid "Blog Settings"
+msgstr ""
+
+#: functions.php:334
+msgid "Blog Layout"
+msgstr ""
+
+#: functions.php:335
+msgid ""
+"Choose your blog page layout with a Right Column, Left Column, or with an "
+"Inset and Right Column."
+msgstr ""
+
+#: functions.php:341
+msgid "Category Layout"
+msgstr ""
+
+#: functions.php:342
+msgid ""
+"Choose your Category page layout. Although you do not have to match it with "
+"the blog layout, if you use full width images, it is recommended to match "
+"this layout with the blog."
+msgstr ""
+
+#: functions.php:348
+msgid "Archive Layout"
+msgstr ""
+
+#: functions.php:349
+msgid ""
+"Choose your Archive page layout. Although you do not have to match it with "
+"the blog layout, if you use full width images, it is recommended to match "
+"this layout with the blog."
+msgstr ""
+
+#: functions.php:355
+msgid "Page Width"
+msgstr ""
+
+#: functions.php:356
+msgid ""
+"Choose a full width layout or a short width up to 1100 pixels (both options "
+"have a fixed content width of 960 pixels)."
+msgstr ""
+
+#: functions.php:362
+msgid "Site Title"
+msgstr ""
+
+#: functions.php:363
+msgid "Choose the colour of your blog title. Default is green 678800"
+msgstr ""
+
+#: functions.php:368
+msgid "Site Caption"
+msgstr ""
+
+#: functions.php:369
+msgid "Choose the colour of your blog description caption. Default is 000"
+msgstr ""
+
+#: functions.php:374
+msgid "Buttons"
+msgstr ""
+
+#: functions.php:375
+msgid ""
+"Choose if you want the default green buttons for Continue Reading and forms "
+"or the grey one."
+msgstr ""
+
+#: functions.php:382
+msgid "Showcase Settings"
+msgstr ""
+
+#: functions.php:386
+msgid "Home Page Showcase"
+msgstr ""
+
+#: functions.php:387
+msgid "Choose either the Widget Showcase or your own showcase plugin."
+msgstr ""
+
+#: functions.php:393
+msgid "Disable/Enable Showcase Lines"
+msgstr ""
+
+#: functions.php:394
+msgid ""
+"This disables or enables the line pattern that goes on top of the left and "
+"right sides of the Showcase areas."
+msgstr ""
+
+#: functions.php:400
+msgid "Showcase Gradient"
+msgstr ""
+
+#: functions.php:401
+msgid ""
+"This disables or enables the showcase background gradient image if you just "
+"want to use a background colour only."
+msgstr ""
+
+#: functions.php:407
+msgid "Showcase Background Colour"
+msgstr ""
+
+#: functions.php:408
+msgid ""
+"Choose the background colour for your showcase. Default colour is A4BF12"
+msgstr ""
+
+#: functions.php:413
+msgid "Showcase Background Image"
+msgstr ""
+
+#: functions.php:414
+msgid ""
+"Enter your image name with the extension like the default gradient image is "
+"scgradient.png and will repeat across. Default image size is 1 x 235 pixels."
+msgstr ""
+
+#: functions.php:419
+msgid "Showcase Background Repeat"
+msgstr ""
+
+#: functions.php:420
+msgid ""
+"For your background image, you can have it repeat left to right (repeat-x) "
+"or left to right from top to bottom (repeat)."
+msgstr ""
+
+#: functions.php:426
+msgid "Your Media Plugin Code"
+msgstr ""
+
+#: functions.php:427
+msgid ""
+"Enter your own slideshow or other media plugin code for your own custom "
+"Showcase on the Front Page. Full width size is 940 pixels for the showcase "
+"area."
+msgstr ""
+
+#: functions.php:433
+msgid "Social Networking Settings"
+msgstr ""
+
+#: functions.php:437
+msgid "Enable Social Networking"
+msgstr ""
+
+#: functions.php:438
+msgid "This disables or enables the social networking icon and link group."
+msgstr ""
+
+#: functions.php:444
+msgid "Disable Twitter"
+msgstr ""
+
+#: functions.php:445
+msgid "This disables or enables the Twitter icon and link."
+msgstr ""
+
+#: functions.php:451
+msgid "Twitter Link"
+msgstr ""
+
+#: functions.php:452
+msgid "Enter your Twitter link."
+msgstr ""
+
+#: functions.php:457
+msgid "Disable MySpace"
+msgstr ""
+
+#: functions.php:458
+msgid "This disables or enables the MySpace icon and link."
+msgstr ""
+
+#: functions.php:464
+msgid "Pinterest Link"
+msgstr ""
+
+#: functions.php:465
+msgid "Enter your MySpace link."
+msgstr ""
+
+#: functions.php:470
+msgid "Disable Facebook"
+msgstr ""
+
+#: functions.php:471
+msgid "This disables or enables the Facebook icon and link."
+msgstr ""
+
+#: functions.php:477
+msgid "Facebook Link"
+msgstr ""
+
+#: functions.php:478
+msgid "Enter your Facebook link."
+msgstr ""
+
+#: functions.php:483
+msgid "Disable Linkedin"
+msgstr ""
+
+#: functions.php:484
+msgid "This disables or enables the Linkedin icon and link."
+msgstr ""
+
+#: functions.php:490
+msgid "Linkedin Link"
+msgstr ""
+
+#: functions.php:491
+msgid "Enter your Linkedin link."
+msgstr ""
+
+#: functions.php:496
+msgid "Disable RSS Icon"
+msgstr ""
+
+#: functions.php:497
+msgid "This disables or enables the RSS icon."
+msgstr ""
+
+#: functions.php:504
+msgid "Colour Settings"
+msgstr ""
+
+#: functions.php:508
+msgid "Page Background"
+msgstr ""
+
+#: functions.php:509
+msgid ""
+"Choose the background colour for the right side of your showcase. Default "
+"colour is FFF"
+msgstr ""
+
+#: functions.php:514
+msgid "Page Links Colour"
+msgstr ""
+
+#: functions.php:515
+msgid "Choose the colour of your in-page text links. Default is 678800"
+msgstr ""
+
+#: functions.php:520
+msgid "Page Link Hover"
+msgstr ""
+
+#: functions.php:521
+msgid ""
+"Choose the colour of your in-page text link hover colour on mouseovers. "
+"Default is 333"
+msgstr ""
+
+#: functions.php:526
+msgid "Bottom Text Links"
+msgstr ""
+
+#: functions.php:527
+msgid ""
+"Choose the colour of your text links in the bottom widgets group area but "
+"also is the mouseover colour for any list type links. Default is A6B278"
+msgstr ""
+
+#: functions.php:532
+msgid "Bottom Text Hover"
+msgstr ""
+
+#: functions.php:533
+msgid ""
+"Choose the colour of your text links in the bottom widgets group area when "
+"you mouseover. Default is white fff"
+msgstr ""
+
+#: functions.php:538
+msgid "Bottom List Colour"
+msgstr ""
+
+#: functions.php:539
+msgid ""
+"Choose the colour of your lists in the bottom widgets. Default is white CCC"
+msgstr ""
+
+#: functions.php:545
+msgid "Main Menu Colour Settings"
+msgstr ""
+
+#: functions.php:549
+msgid "Main Menu Colour"
+msgstr ""
+
+#: functions.php:550
+msgid "The main menu link colour. Default colour is 333"
+msgstr ""
+
+#: functions.php:555
+msgid "Main Menu Hover"
+msgstr ""
+
+#: functions.php:556
+msgid ""
+"The main menu colour when you mouseover and active state. Default is 93B222"
+msgstr ""
+
+#: functions.php:561
+msgid "Submenu Background Hover"
+msgstr ""
+
+#: functions.php:562
+msgid ""
+"This is the background colour when you mouseover the submenus. The default "
+"is green 93B222 with white text."
+msgstr ""
+
+#: functions.php:567
+msgid "Second Submenu Background Active"
+msgstr ""
+
+#: functions.php:568
+msgid ""
+"This is the background colour if you have a second submenu group. The "
+"default colour is grey 383838."
+msgstr ""
+
+#: functions.php:573
+msgid "Submenu Hover Text"
+msgstr ""
+
+#: functions.php:574
+msgid ""
+"This is the text colour when you mouseover the submenus. The default is "
+"white FFF."
+msgstr ""
+
+#: functions.php:580
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: functions.php:584
+msgid "Disable/Enable Footer Menu"
+msgstr ""
+
+#: functions.php:585
+msgid "Choose to enable or disable the footer menu"
+msgstr ""
+
+#: functions.php:591
+msgid "Copyright Information"
+msgstr ""
+
+#: functions.php:592
+msgid "Enter your own copyright credit line."
+msgstr ""
+
+#: functions.php:594
+msgid "Copyright &copy; 2014 Pixel Theme Studio. All rights reserved"
+msgstr ""
+
+#: functions.php:597
+msgid "Google Analytics Code"
+msgstr ""
+
+#: functions.php:598
+msgid "Enter your own Google Analytics code"
+msgstr ""
+
+#: functions.php:664
+msgid "settings sucessfully saved."
+msgstr ""
+
+#: functions.php:665
+msgid "settings successfully reset."
+msgstr ""
+
+#: functions.php:666
+msgid "An error has occurred in the"
+msgstr ""
+
+#: functions.php:666
+msgid "theme."
+msgstr ""
+
+#: functions.php:675
+msgid "Settings"
+msgstr ""
+
+#: functions.php:679
+msgid "Theme Support:"
+msgstr ""
+
+#: functions.php:679
+msgid "If you are experiencing difficulties with the"
+msgstr ""
+
+#: functions.php:679
+msgid ""
+"template, you can setup a membership with www.pixelthemestudio.ca if you do "
+"not have one. This gives you direct support in addition to the theme setup "
+"tutorials located at the site."
+msgstr ""
+
+#: functions.php:705
+msgid "To easily use the "
+msgstr ""
+
+#: functions.php:705
+msgid "theme, you can use the menu below."
+msgstr ""
+
+#: functions.php:850 functions.php:1005
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:851 functions.php:1006
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:852 functions.php:1007
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:853
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:864 functions.php:1019
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:865 functions.php:1021 functions.php:2785
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:866
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:1008
+msgid "Something went wrong."
+msgstr ""
+
+#: functions.php:1020
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions.php:1022 functions.php:2476
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions.php:1023
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions.php:1024
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions.php:1376 functions.php:3002
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions.php:2011
+msgid "Private Repository"
+msgstr ""
+
+#: functions.php:2014
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions.php:2019
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions.php:2022
+msgid "Required"
+msgstr ""
+
+#: functions.php:2022
+msgid "Recommended"
+msgstr ""
+
+#: functions.php:2025
+msgid "Not Installed"
+msgstr ""
+
+#: functions.php:2027
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions.php:2132 functions.php:2240
+msgid "Install"
+msgstr ""
+
+#: functions.php:2154 functions.php:2241
+msgid "Activate"
+msgstr ""
+
+#: functions.php:2203
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: functions.php:2219
+msgid "Plugin"
+msgstr ""
+
+#: functions.php:2220
+msgid "Source"
+msgstr ""
+
+#: functions.php:2221
+msgid "Type"
+msgstr ""
+
+#: functions.php:2222
+msgid "Status"
+msgstr ""
+
+#: functions.php:2768
+msgid "Install package not available."
+msgstr ""
+
+#: functions.php:2769
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>"
+msgstr ""
+
+#: functions.php:2770
+msgid "Unpacking the package"
+msgstr ""
+
+#: functions.php:2771
+msgid "Installing the plugin"
+msgstr ""
+
+#: functions.php:2772
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions.php:2773
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions.php:2784
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions.php:2898
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions.php:2899
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions.php:2899 functions.php:2908
+msgid "Show Details"
+msgstr ""
+
+#: functions.php:2899 functions.php:2908
+msgid "Hide Details"
+msgstr ""
+
+#: functions.php:2900
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions.php:2901
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions.php:2905
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions.php:2906
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: functions.php:2907
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions.php:2908
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions.php:2909
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions.php:2910
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:20
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:22
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: loop.php:25 404.php:35
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:27
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: loop.php:74
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr ""
+
+#: loop.php:84
+msgid "More Galleries"
+msgstr ""
+
+#: loop.php:86 loop.php:110 loop.php:124
+msgid "Leave a comment"
+msgstr ""
+
+#: loop.php:86 loop.php:110 loop.php:124
+msgid "1 Comment"
+msgstr ""
+
+#: loop.php:86 loop.php:110 loop.php:124
+msgid "% Comments"
+msgstr ""
+
+#: loop.php:87 loop.php:111 page-content.php:16 single.php:14
+msgid "Edit"
+msgstr ""
+
+#: loop.php:137 page-content.php:15 single.php:20
+msgid "Pages:"
+msgstr ""
+
+#: 404.php:36
+msgid ""
+"You are not able to visit this page because of one or more of the following:"
+msgstr ""
+
+#: 404.php:38
+msgid ""
+"<li>you have an  <strong>out-of-date bookmark </strong>for this page;</li>"
+msgstr ""
+
+#: 404.php:39
+msgid ""
+"<li>a search engine has an <strong>out-of-date listing</strong> for this "
+"site;</li>"
+msgstr ""
+
+#: 404.php:40
+msgid "<li>a <strong>mistyped or misspelled address</strong>;</li>"
+msgstr ""
+
+#: 404.php:41
+msgid "<li>a website owner missed something;</li>"
+msgstr ""
+
+#: 404.php:42
+msgid "<li>this page was renamed but not redirected to the new one;</li>"
+msgstr ""
+
+#: 404.php:43
+msgid "<li>this page was moved to another location or simply removed; </li>"
+msgstr ""
+
+#: 404.php:44
+msgid "<li>An error has occurred while processing your request.</li>"
+msgstr ""
+
+#: 404.php:46
+msgid "Please try one of the following pages:"
+msgstr ""
+
+#: 404.php:49
+msgid "Go to the Home Page"
+msgstr ""
+
+#: 404.php:49
+msgid "HOME PAGE"
+msgstr ""
+
+#: 404.php:52
+msgid ""
+"If difficulties persist, please contact the System Administrator of this "
+"site."
+msgstr ""
+
+#: 404.php:59
+msgid "Content not found"
+msgstr ""
+
+#: page-content.php:23 single.php:48
+msgid "Return to Previous Page"
+msgstr ""
+
+#: comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "Comments: %2$s"
+msgstr ""
+
+#: comments.php:42 comments.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:43 comments.php:62
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single.php:27
+#, php-format
+msgid "<span class=\"%1$s\">Posted in: </span> %2$s"
+msgstr ""
+
+#: single.php:36
+#, php-format
+msgid "<span class=\"%1$s\">Tagged: </span> %2$s"
+msgstr ""
+
+#: functions/widgets.php:21
+msgid "Left column with an active area of 180 pixels wide for your blog"
+msgstr ""
+
+#: functions/widgets.php:31
+msgid "Blog inset column with an active area of 180 pixels wide for your blog"
+msgstr ""
+
+#: functions/widgets.php:41
+msgid "Right Column with an active area of 240 pixels wide for your blog"
+msgstr ""
+
+#: functions/widgets.php:51
+msgid "Left column with an active area of 180 pixels wide for your page"
+msgstr ""
+
+#: functions/widgets.php:61
+msgid "Right Column with an active area of 240 pixels wide for your page"
+msgstr ""
+
+#: functions/widgets.php:71
+msgid ""
+"This is a Showcase widget area for you to use for full width images, media, "
+"or even your own slideshows throughout your web site. For this, use the "
+"Custom No Title Widget."
+msgstr ""
+
+#: functions/widgets.php:90
+msgid ""
+"This puts 1, 2, 3, or 4 widgets side-by-side in the bottom area of your page "
+"above the footer and will automatically resize based on how many widgets are "
+"published."
+msgstr ""
+
+#: functions/widgets.php:146
+msgid ""
+"Custom text widget that has a wider field to enter content and also supports "
+"shortcode. Best for doing multiple column shortcodes."
+msgstr ""
+
+#: functions/widgets.php:149
+msgid "Pixel Text Widget"
+msgstr ""
+
+#: functions/widgets.php:196
+msgid "Title:"
+msgstr ""
+
+#: functions/widgets.php:207
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: functions/widgets.php:226
+msgid ""
+"For displaying showcase images with the feature to choose to show a widget "
+"title on the front or just the admin side. Special thanks to brassblogs.com "
+"for this widget."
+msgstr ""
+
+#: functions/widgets.php:230
+msgid "Showcase Widget"
+msgstr ""
+
+#: functions/widgets.php:327
+msgid "Title for the admin side only"
+msgstr ""
+
+#: functions/widgets.php:333
+msgid "Title for the front of your site - leave blank for no title"
+msgstr ""
+
+#: functions/widgets.php:339
+msgid "Full path to image"
+msgstr ""
+
+#: functions/widgets.php:345
+msgid "Full URL to link image or text to:"
+msgstr ""
+
+#: functions/widgets.php:351
+msgid "ALT text for the image):"
+msgstr ""
+
+#: functions/widgets.php:358
+msgid ""
+"If you want to use this for a special text widget with content, enter in "
+"text you would like to display. HTML is allowed but Shortcodes is not "
+"compatible in this one."
+msgstr ""
+
+#: functions/widgets.php:366
+msgid "Automatically add paragraphs."
+msgstr ""
+
+#: functions/breadcrumbs.php:96
+msgid "Page"
+msgstr ""
+
+#: includes/submit.php:10
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: includes/submit.php:18
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: includes/submit.php:21
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: includes/submit.php:29
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: includes/submit.php:43
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: includes/submit.php:51
+msgid "You emailed Your Name"
+msgstr ""
+
+#: includes/submit.php:52
+msgid "Your Name <noreply@somedomain.com>"
+msgstr ""
+
+#: includes/bottomwidgets.php:4
+msgid "Theme Features"
+msgstr ""
+
+#: includes/bottomwidgets.php:4
+msgid ""
+"Welcome to the Zen Theme which is best used for personal blogging. Here is a "
+"list of some of the special features you will be able to take advantage of "
+"when customizing your website and blog:"
+msgstr ""
+
+#: includes/bottomwidgets.php:5
+msgid "Theme Control panel"
+msgstr ""
+
+#: includes/bottomwidgets.php:6
+msgid "Customize colours, layout, buttons, and more"
+msgstr ""
+
+#: includes/bottomwidgets.php:7
+msgid "Dynamic widgets with varied widths"
+msgstr ""
+
+#: includes/bottomwidgets.php:8
+msgid "Up to 8 Widget Positions"
+msgstr ""
+
+#: includes/bottomwidgets.php:9
+msgid "Built-in Social Networking"
+msgstr ""
+
+#: includes/bottomwidgets.php:10
+msgid "Google Fonts for Headings and site title"
+msgstr ""
+
+#: includes/bottomwidgets.php:11
+msgid "and a lot more..."
+msgstr ""
+
+#: includes/bottomwidgets.php:13
+msgid "Relax With Herbal Teas"
+msgstr ""
+
+#: includes/bottomwidgets.php:13
+msgid ""
+"When enjoying your moment of zen, it's best to enjoy fresh herbal teas for "
+"relaxation. Of course, choosing the right zen teas requires the expertise of "
+"asian herbalists."
+msgstr ""
+
+#: includes/bottomwidgets.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/bottomwidgets.php:15
+msgid ""
+"Check out the recent articles posted here at Zen and keep up to date with "
+"the latest news and information about having a zen lifestyle."
+msgstr ""
+
+#: includes/blogright.php:11
+msgid "Right Column Widgets"
+msgstr ""
+
+#: includes/blogright.php:11
+msgid ""
+"As it is with any website or blog, you have the choice of adding any kind of "
+"widgets to the sidebars. There are many to choose from the WordPress "
+"website, like:"
+msgstr ""
+
+#: includes/blogright.php:12
+msgid "Social Networking Widgets"
+msgstr ""
+
+#: includes/blogright.php:13
+msgid "Media based widgets"
+msgstr ""
+
+#: includes/blogright.php:14
+msgid "Widgets with thumbnails for Recent Posts, Popular, and more..."
+msgstr ""
+
+#: includes/showcase1.php:8
+msgid "showcase demo picture"
+msgstr ""
+
+#: includes/archiveleft.php:26 includes/archiveleft.php:28
+#: includes/archiveleft.php:30 includes/archives.php:15
+#: includes/archives.php:17 includes/archives.php:19
+#: includes/archiveright.php:16 includes/archiveright.php:18
+#: includes/archiveright.php:20 includes/archiveinsetright.php:16
+#: includes/archiveinsetright.php:18 includes/archiveinsetright.php:20
+#, php-format
+msgid "Articles from: <span>%s</span>"
+msgstr ""
+
+#: includes/archiveleft.php:32 includes/archiveright.php:22
+#: includes/archiveinsetright.php:22
+msgid "Blog Articles"
+msgstr ""
+
+#: includes/authorinsetright.php:16 includes/authorleft.php:25
+#: includes/authorright.php:16
+#, php-format
+msgid "Articles Written By: %s"
+msgstr ""
+
+#: includes/authorinsetright.php:26 includes/authorleft.php:35
+#: includes/authorright.php:26
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: includes/authorinsetright.php:28 includes/authorleft.php:37
+#: includes/authorright.php:28
+msgid "Author Website:"
+msgstr ""
+
+#: includes/archives.php:21
+msgid "Blog Archives"
+msgstr ""
